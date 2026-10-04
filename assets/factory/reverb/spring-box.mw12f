@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Spring Box" author="mwAudio" tags="Short,Motion" description="Low diffusion and lots of movement: a bouncy, metallic small tank.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="8"/>
+    <p id="rev_early_size" v="5"/>
+    <p id="rev_late_size" v="12"/>
+    <p id="rev_early_diff" v="30"/>
+    <p id="rev_late_diff" v="35"/>
+    <p id="rev_early_bright" v="65"/>
+    <p id="rev_late_bright" v="55"/>
+    <p id="rev_feedback" v="50"/>
+    <p id="rev_early_late" v="50"/>
+    <p id="rev_mod" v="40"/>
+    <p id="rev_mix" v="14"/>
+  </params>
+</mw12F>

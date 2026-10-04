@@ -1,0 +1,29 @@
+<mw12F schema="1" type="distortion" name="Warm Edge" author="mwAudio" tags="Subtle" description="Symmetric diodes just past clean. Rounds off the accents and thickens the saw.">
+  <params>
+    <p id="dist_on" v="1"/>
+    <p id="dist_model" v="1"/>
+    <p id="dist_dynamics" v="0"/>
+    <p id="dist_dyn_post" v="0"/>
+    <p id="dist_drive" v="30"/>
+    <p id="dist_color" v="0"/>
+    <p id="dist_clipper" v="0"/>
+    <p id="dist_pre_min" v="0"/>
+    <p id="dist_pre_max" v="72"/>
+    <p id="dist_knee" v="100"/>
+    <p id="dist_bias" v="0"/>
+    <p id="dist_low_keep" v="0"/>
+    <p id="dist_pre_hp" v="0"/>
+    <p id="dist_pre_eq_on" v="0"/>
+    <p id="dist_pre_eq_gain" v="0"/>
+    <p id="dist_pre_eq_freq" v="200"/>
+    <p id="dist_pre_eq_width" v="1.5"/>
+    <p id="dist_tilt_on" v="0"/>
+    <p id="dist_tilt_amt" v="0"/>
+    <p id="dist_tilt_freq" v="1000"/>
+    <p id="dist_color_freq" v="2200"/>
+    <p id="dist_color_reso" v="40"/>
+    <p id="dist_color_range" v="100"/>
+    <p id="dist_post_hp" v="0"/>
+    <p id="dist_volume" v="0.8"/>
+  </params>
+</mw12F>

@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Deep Space" author="mwAudio" tags="Hall,Long,Heavy" description="A huge, dark, slowly moving tail for minimal and slow lines.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="60"/>
+    <p id="rev_early_size" v="18"/>
+    <p id="rev_late_size" v="50"/>
+    <p id="rev_early_diff" v="70"/>
+    <p id="rev_late_diff" v="85"/>
+    <p id="rev_early_bright" v="35"/>
+    <p id="rev_late_bright" v="25"/>
+    <p id="rev_feedback" v="82"/>
+    <p id="rev_early_late" v="85"/>
+    <p id="rev_mod" v="35"/>
+    <p id="rev_mix" v="17"/>
+  </params>
+</mw12F>

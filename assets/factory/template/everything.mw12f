@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Everything" author="mwAudio" tags="Other" description="Other template: semitones 0 1 2 3 4 5 6 7 8 9 10 11 above the root. Set the root on the generator.">
+  <template note_mask="4095" root="0" octave_mask="31" slide="1" accent="1" vibrato="1" amount_note="50" amount_slide="50" amount_accent="50" amount_vibrato="50"/>
+</mw12F>

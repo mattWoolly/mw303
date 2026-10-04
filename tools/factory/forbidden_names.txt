@@ -1,0 +1,131 @@
+# Names factory content must not use: real records, artists, labels, shops and product or game
+# trademarks that a preset title could point at. scripts/branding-audit.sh covers equipment
+# brands; this list covers the rest. factory-build checks every name, description and tag it
+# writes, and every pattern name inside a scene, against it (case-insensitive, whole words),
+# and so does factory-build --verify for existing files.
+# One phrase per line; '#' starts a comment.
+
+# Records
+Acid Tracks
+Acid Thunder
+Acid Over
+Acid Phase
+Acid Eiffel
+Acid Rain
+Acperience
+Anasthasia
+Around The World
+Block Rockin
+Block Rocker
+Born Slippy
+Can You Feel It
+Charly
+Come To Daddy
+Da Funk
+Dominator
+Energy Flash
+Firestarter
+French Kiss
+Hardcore Uproar
+Hey Boy Hey Girl
+Higher State
+Inner City Life
+Jack Your Body
+James Brown Is Dead
+Little Fluffy Clouds
+Mentasm
+Move Your Body
+Music Sounds Better
+Night Bus
+Out Of Space
+Pacific State
+Papua New Guinea
+Plastic Dreams
+Praise You
+Pump Up The Volume
+Rave Signal
+Red Alert
+Right Here Right Now
+Rockafeller Skank
+Setting Sun
+Sheet One
+Spastik
+Strings Of Life
+Voodoo Ray
+Washing Machine
+Windowlicker
+Xtal
+Your Only Friend
+Beat Box
+
+# Artists
+808 State
+A Guy Called Gerald
+Adonis
+Altern 8
+Aphex
+Armando
+Basement Jack
+Basement Jaxx
+Burial
+Cajmere
+Carl Cox
+Ceephax
+Chemical Brothers
+CJ Bolland
+Daft Punk
+Derrick May
+DJ Pierre
+DJ Rush
+DJ Sneak
+Emmanuel Top
+Farley Jackmaster
+Fast Eddie
+Fatboy Slim
+Felix Da Housecat
+Frankie Knuckles
+Green Velvet
+Hardfloor
+Jeff Mills
+Joey Beltram
+Josh Wink
+Juan Atkins
+Kevin Saunderson
+Larry Heard
+Laurent Garnier
+Leftfield
+Lil Louis
+Lords Of Acid
+Luke Vibert
+Marshall Jefferson
+Moby
+Mr Fingers
+Orbital
+Phuture
+Plastikman
+Prodigy
+Richie Hawtin
+Robert Hood
+Ron Hardy
+Tin Man
+Underworld
+
+# Labels and shops
+DJ International
+Dusty Groove
+Harthouse
+Nervous Records
+Plus 8
+Rephlex
+Rising High
+Strictly Rhythm
+Trax Records
+Tresor
+Underground Resistance
+Warp Records
+
+# Products and games
+Below Deck
+Lava Lamp
+Starfield
+Subway

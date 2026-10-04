@@ -1,0 +1,19 @@
+<mw12F schema="1" type="calibration" name="Hot Accent Unit" author="mwAudio" tags="Unit Variation,Screaming" description="More filter and more volume from every accent, with a slightly quicker sweep capacitor.">
+  <params>
+    <p id="cal_tm3" v="0"/>
+    <p id="cal_c21" v="15.9"/>
+    <p id="cal_accenv" v="2450"/>
+    <p id="cal_accamp" v="1.6"/>
+    <p id="cal_c13" v="0.9"/>
+    <p id="cal_tm5" v="1"/>
+    <p id="cal_pw" v="0"/>
+    <p id="cal_vca_clicks" v="1"/>
+    <p id="cal_vca_noise" v="0"/>
+    <p id="cal_rb" v="20"/>
+    <p id="cal_kmax" v="18.7"/>
+    <p id="cal_cv_scale" v="0.88"/>
+    <p id="cal_gate_delay" v="5.4"/>
+    <p id="cal_drift" v="10"/>
+    <p id="cal_cpu_jitter" v="0"/>
+  </params>
+</mw12F>

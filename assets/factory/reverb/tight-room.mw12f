@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Tight Room" author="mwAudio" tags="Room,Short,Subtle" description="A small, quick room. Glue without a tail.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="5"/>
+    <p id="rev_early_size" v="4"/>
+    <p id="rev_late_size" v="9"/>
+    <p id="rev_early_diff" v="60"/>
+    <p id="rev_late_diff" v="50"/>
+    <p id="rev_early_bright" v="55"/>
+    <p id="rev_late_bright" v="40"/>
+    <p id="rev_feedback" v="10"/>
+    <p id="rev_early_late" v="30"/>
+    <p id="rev_mod" v="5"/>
+    <p id="rev_mix" v="12"/>
+  </params>
+</mw12F>

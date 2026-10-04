@@ -1,0 +1,19 @@
+<mw12F schema="1" type="calibration" name="Late Gate Unit" author="mwAudio" tags="Worn,Vintage" description="Slow gate, jittery timing from the processor and the full VCA click.">
+  <params>
+    <p id="cal_tm3" v="0"/>
+    <p id="cal_c21" v="15.9"/>
+    <p id="cal_accenv" v="1951"/>
+    <p id="cal_accamp" v="1.1"/>
+    <p id="cal_c13" v="1"/>
+    <p id="cal_tm5" v="1"/>
+    <p id="cal_pw" v="0"/>
+    <p id="cal_vca_clicks" v="1"/>
+    <p id="cal_vca_noise" v="0"/>
+    <p id="cal_rb" v="20"/>
+    <p id="cal_kmax" v="18.7"/>
+    <p id="cal_cv_scale" v="0.88"/>
+    <p id="cal_gate_delay" v="6"/>
+    <p id="cal_drift" v="10"/>
+    <p id="cal_cpu_jitter" v="1"/>
+  </params>
+</mw12F>

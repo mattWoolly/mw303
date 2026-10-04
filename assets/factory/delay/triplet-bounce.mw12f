@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Triplet Bounce" author="mwAudio" tags="Tempo Sync,Wide" description="Triplet repeats against a straight line, spread wide.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="1"/>
+    <p id="delay_l_den" v="8"/>
+    <p id="delay_l_mod" v="2"/>
+    <p id="delay_r_num" v="1"/>
+    <p id="delay_r_den" v="4"/>
+    <p id="delay_r_mod" v="2"/>
+    <p id="delay_feedback" v="30"/>
+    <p id="delay_filt_type" v="3"/>
+    <p id="delay_filt_cutoff" v="300"/>
+    <p id="delay_filt_reso" v="0"/>
+    <p id="delay_spread" v="70"/>
+    <p id="delay_mix" v="20"/>
+  </params>
+</mw12F>

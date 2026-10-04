@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Minimal Space" author="mwAudio" tags="Acid,Minimal" description="Few low notes and lots of room for the echoes.">
+  <template note_mask="129" root="0" octave_mask="3" slide="1" accent="1" vibrato="0" amount_note="35" amount_slide="15" amount_accent="15" amount_vibrato="0"/>
+</mw12F>

@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Vibrato Pair" author="mwAudio" tags="Acid,Experimental" description="Two notes with vibrato steps scattered through them.">
+  <template note_mask="9" root="0" octave_mask="6" slide="1" accent="1" vibrato="1" amount_note="70" amount_slide="20" amount_accent="25" amount_vibrato="30"/>
+</mw12F>

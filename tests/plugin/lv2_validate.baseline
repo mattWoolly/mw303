@@ -1,0 +1,5 @@
+error: Object not in range <http://lvplug.in/ns/lvcore#Feature>
+error: Property <https://github.com/mattWoolly/mwF:Program> has no label
+error: Subject not in domain <http://lvplug.in/ns/lvcore#Port>
+error: Subject not in domain <http://usefulinc.com/ns/doap#Project>
+error: Use of undefined property

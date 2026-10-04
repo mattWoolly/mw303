@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Chicago Jack" author="mwAudio" tags="Acid,Chicago" description="Minor pentatonic with the flat fifth, dense notes, sparse accents and slides.">
+  <template note_mask="1257" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="85" amount_slide="15" amount_accent="15" amount_vibrato="0"/>
+</mw12F>

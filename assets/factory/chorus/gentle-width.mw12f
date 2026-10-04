@@ -1,0 +1,13 @@
+<mw12F schema="1" type="chorus" name="Gentle Width" author="mwAudio" tags="Subtle,Wide" description="Slow, light widening that keeps the bass centred.">
+  <params>
+    <p id="cho_on" v="1"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="0"/>
+    <p id="cho_hp" v="40"/>
+    <p id="cho_volume" v="8.6"/>
+    <p id="cho_depth" v="25"/>
+    <p id="cho_rate" v="25"/>
+    <p id="cho_spatial" v="60"/>
+    <p id="cho_mix" v="30"/>
+  </params>
+</mw12F>

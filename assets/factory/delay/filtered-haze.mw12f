@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Filtered Haze" author="mwAudio" tags="Filtered,Long,Tempo Sync" description="Uneven sixteenth repeats through a resonant band-pass. A cloud behind the line.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="3"/>
+    <p id="delay_l_den" v="16"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="5"/>
+    <p id="delay_r_den" v="16"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="55"/>
+    <p id="delay_filt_type" v="2"/>
+    <p id="delay_filt_cutoff" v="1400"/>
+    <p id="delay_filt_reso" v="50"/>
+    <p id="delay_spread" v="80"/>
+    <p id="delay_mix" v="26"/>
+  </params>
+</mw12F>

@@ -1,0 +1,17 @@
+<mw12F schema="1" type="eq" name="Mid Scoop" author="mwAudio" tags="Scoop" description="Takes out the boxy middle, lifts the top a little and gives the fundamental a touch of weight.">
+  <params>
+    <p id="eq_on" v="1"/>
+    <p id="eq_low_gain" v="1.5"/>
+    <p id="eq_low_freq" v="90"/>
+    <p id="eq_low_width" v="2"/>
+    <p id="eq_lomid_gain" v="-4.5"/>
+    <p id="eq_lomid_freq" v="500"/>
+    <p id="eq_lomid_width" v="1.5"/>
+    <p id="eq_himid_gain" v="0"/>
+    <p id="eq_himid_freq" v="3500"/>
+    <p id="eq_himid_width" v="2"/>
+    <p id="eq_high_gain" v="3"/>
+    <p id="eq_high_freq" v="6000"/>
+    <p id="eq_high_width" v="2"/>
+  </params>
+</mw12F>

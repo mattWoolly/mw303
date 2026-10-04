@@ -1,0 +1,13 @@
+<mw12F schema="1" type="chorus" name="Fat Double" author="mwAudio" tags="Heavy,Wide" description="Two lines, the second loud, for a doubled sound.">
+  <params>
+    <p id="cho_on" v="1"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="70"/>
+    <p id="cho_hp" v="30"/>
+    <p id="cho_volume" v="4.8"/>
+    <p id="cho_depth" v="40"/>
+    <p id="cho_rate" v="30"/>
+    <p id="cho_spatial" v="70"/>
+    <p id="cho_mix" v="45"/>
+  </params>
+</mw12F>

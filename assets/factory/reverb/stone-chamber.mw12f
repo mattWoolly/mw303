@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Stone Chamber" author="mwAudio" tags="Hall" description="Medium chamber with clear early reflections.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="20"/>
+    <p id="rev_early_size" v="12"/>
+    <p id="rev_late_size" v="28"/>
+    <p id="rev_early_diff" v="55"/>
+    <p id="rev_late_diff" v="60"/>
+    <p id="rev_early_bright" v="50"/>
+    <p id="rev_late_bright" v="40"/>
+    <p id="rev_feedback" v="45"/>
+    <p id="rev_early_late" v="60"/>
+    <p id="rev_mod" v="10"/>
+    <p id="rev_mix" v="17"/>
+  </params>
+</mw12F>

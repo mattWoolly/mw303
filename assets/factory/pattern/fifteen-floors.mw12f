@@ -1,0 +1,3 @@
+<mw12F schema="1" type="pattern" name="Fifteen Floors" author="mwAudio" tags="Polymeter,Main,Two Note,Sparse Accent,Slides,Octave Jumps,Rests,Odd Length" description="Polymeter line in C, about 128 BPM. The main line of the scene Fifteen Floors.">
+  <pattern>acidpat 1|name=Fifteen Floors|len=15|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 R:C:0 N:C:1 N:C:0:1:A R:C:0 N:C:0 N:C:1:1:S N:C:0 R:C:0 N:C:0:1:A N:C:1 R:C:0 N:C:0 R:C:0 N:D#:0:1:S</pattern>
+</mw12F>

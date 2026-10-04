@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Club Room" author="mwAudio" tags="Room,Subtle" description="About half a second of room, the old digital box kind.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="12"/>
+    <p id="rev_early_size" v="8"/>
+    <p id="rev_late_size" v="16"/>
+    <p id="rev_early_diff" v="50"/>
+    <p id="rev_late_diff" v="55"/>
+    <p id="rev_early_bright" v="50"/>
+    <p id="rev_late_bright" v="45"/>
+    <p id="rev_feedback" v="20"/>
+    <p id="rev_early_late" v="45"/>
+    <p id="rev_mod" v="10"/>
+    <p id="rev_mix" v="14"/>
+  </params>
+</mw12F>

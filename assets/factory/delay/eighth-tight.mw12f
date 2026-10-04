@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Eighth Tight" author="mwAudio" tags="Short,Tempo Sync" description="A single tidy eighth repeat for drive and movement.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="1"/>
+    <p id="delay_l_den" v="8"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="1"/>
+    <p id="delay_r_den" v="8"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="20"/>
+    <p id="delay_filt_type" v="3"/>
+    <p id="delay_filt_cutoff" v="600"/>
+    <p id="delay_filt_reso" v="0"/>
+    <p id="delay_spread" v="0"/>
+    <p id="delay_mix" v="15"/>
+  </params>
+</mw12F>

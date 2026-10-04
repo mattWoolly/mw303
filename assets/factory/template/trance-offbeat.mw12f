@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Trance Offbeat" author="mwAudio" tags="Acid,Trance" description="Minor seventh chord tones for rolling off-beat lines.">
+  <template note_mask="1161" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="75" amount_slide="20" amount_accent="30" amount_vibrato="0"/>
+</mw12F>

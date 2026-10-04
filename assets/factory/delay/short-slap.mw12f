@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Short Slap" author="mwAudio" tags="Short,Free Time" description="One quick slap, not in time. Thickens without smearing.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="0"/>
+    <p id="delay_time" v="0.07"/>
+    <p id="delay_l_num" v="3"/>
+    <p id="delay_l_den" v="16"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="3"/>
+    <p id="delay_r_den" v="16"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="10"/>
+    <p id="delay_filt_type" v="1"/>
+    <p id="delay_filt_cutoff" v="5000"/>
+    <p id="delay_filt_reso" v="0"/>
+    <p id="delay_spread" v="30"/>
+    <p id="delay_mix" v="18"/>
+  </params>
+</mw12F>

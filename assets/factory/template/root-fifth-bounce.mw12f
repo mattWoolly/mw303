@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Root Fifth Bounce" author="mwAudio" tags="Acid" description="Acid template: semitones 0 7 above the root, in two octaves, with gaps, slides and accents set for a bouncing line. The Perfect Fifth template has the same notes at neutral density.">
+  <template note_mask="129" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="75" amount_slide="35" amount_accent="40" amount_vibrato="50"/>
+</mw12F>

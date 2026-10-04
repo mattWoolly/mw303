@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Phrygian Creep" author="mwAudio" tags="Acid,Melodic" description="The dark flat second, one octave, slides between neighbours.">
+  <template note_mask="171" root="0" octave_mask="2" slide="1" accent="1" vibrato="0" amount_note="80" amount_slide="30" amount_accent="20" amount_vibrato="0"/>
+</mw12F>

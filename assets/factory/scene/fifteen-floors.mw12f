@@ -1,0 +1,152 @@
+<mw12F schema="1" type="scene" name="Fifteen Floors" author="mwAudio" tags="Seq,Polymeter,Square,Light,Hollow,Squelchy" description="Polymeter scene in C, written for about 128 BPM. Bank A: A1 main line, A2 a generated relative in the same notes, A3 the line moved along the grid, A4 a different loop length that drifts, A5 the accents moved one note later, A6 a fill in the last beat.">
+  <params>
+    <p id="wave" v="1"/>
+    <p id="tune_ext" v="0"/>
+    <p id="tune" v="0"/>
+    <p id="tune_coarse" v="0"/>
+    <p id="tune_fine" v="0"/>
+    <p id="cutoff" v="16"/>
+    <p id="resonance" v="88"/>
+    <p id="envmod" v="70"/>
+    <p id="decay" v="46"/>
+    <p id="accent" v="82"/>
+    <p id="slide_time" v="50"/>
+    <p id="sweep_couple" v="1"/>
+    <p id="sweep_amt" v="100"/>
+    <p id="env_attack" v="0"/>
+    <p id="acc_decay" v="0"/>
+    <p id="accvol_couple" v="1"/>
+    <p id="acc_vol" v="100"/>
+    <p id="vib_speed" v="50"/>
+    <p id="vib_depth" v="50"/>
+    <p id="cal_tm3" v="0"/>
+    <p id="cal_c21" v="15.9"/>
+    <p id="cal_accenv" v="1951"/>
+    <p id="cal_accamp" v="1.1"/>
+    <p id="cal_c13" v="1"/>
+    <p id="cal_tm5" v="1"/>
+    <p id="cal_pw" v="0"/>
+    <p id="cal_vca_clicks" v="1"/>
+    <p id="cal_vca_noise" v="0"/>
+    <p id="cal_rb" v="20"/>
+    <p id="cal_kmax" v="18.7"/>
+    <p id="cal_cv_scale" v="0.88"/>
+    <p id="cal_gate_delay" v="5.4"/>
+    <p id="cal_drift" v="10"/>
+    <p id="cal_cpu_jitter" v="0"/>
+    <p id="mod_on" v="0"/>
+    <p id="mod_overdrive" v="0"/>
+    <p id="mod_filter_fm" v="0"/>
+    <p id="mod_tracking" v="0"/>
+    <p id="mod_amp_decay" v="1500"/>
+    <p id="mod_amp_sustain" v="0"/>
+    <p id="mod_soft_attack" v="0.5"/>
+    <p id="mod_hires" v="0"/>
+    <p id="mod_sweep_speed" v="0"/>
+    <p id="mod_muffler" v="0"/>
+    <p id="mod_ext_range" v="0"/>
+    <p id="mod_sub_level" v="0"/>
+    <p id="mod_sub_oct" v="0"/>
+    <p id="dist_on" v="1"/>
+    <p id="dist_model" v="19"/>
+    <p id="dist_dynamics" v="0"/>
+    <p id="dist_dyn_post" v="0"/>
+    <p id="dist_drive" v="35"/>
+    <p id="dist_color" v="0"/>
+    <p id="dist_clipper" v="4"/>
+    <p id="dist_pre_min" v="0"/>
+    <p id="dist_pre_max" v="68"/>
+    <p id="dist_knee" v="100"/>
+    <p id="dist_bias" v="0"/>
+    <p id="dist_low_keep" v="0"/>
+    <p id="dist_pre_hp" v="0"/>
+    <p id="dist_pre_eq_on" v="0"/>
+    <p id="dist_pre_eq_gain" v="0"/>
+    <p id="dist_pre_eq_freq" v="200"/>
+    <p id="dist_pre_eq_width" v="1.5"/>
+    <p id="dist_tilt_on" v="0"/>
+    <p id="dist_tilt_amt" v="0"/>
+    <p id="dist_tilt_freq" v="1000"/>
+    <p id="dist_color_freq" v="2000"/>
+    <p id="dist_color_reso" v="20"/>
+    <p id="dist_color_range" v="100"/>
+    <p id="dist_post_hp" v="0"/>
+    <p id="dist_volume" v="2.5"/>
+    <p id="eq_on" v="0"/>
+    <p id="eq_low_gain" v="0"/>
+    <p id="eq_low_freq" v="100"/>
+    <p id="eq_low_width" v="2"/>
+    <p id="eq_lomid_gain" v="0"/>
+    <p id="eq_lomid_freq" v="550"/>
+    <p id="eq_lomid_width" v="1.5"/>
+    <p id="eq_himid_gain" v="0"/>
+    <p id="eq_himid_freq" v="3500"/>
+    <p id="eq_himid_width" v="2"/>
+    <p id="eq_high_gain" v="0"/>
+    <p id="eq_high_freq" v="10000"/>
+    <p id="eq_high_width" v="2"/>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="1"/>
+    <p id="delay_l_den" v="8"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="1"/>
+    <p id="delay_r_den" v="8"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="20"/>
+    <p id="delay_filt_type" v="3"/>
+    <p id="delay_filt_cutoff" v="600"/>
+    <p id="delay_filt_reso" v="0"/>
+    <p id="delay_spread" v="0"/>
+    <p id="delay_mix" v="15"/>
+    <p id="rev_on" v="0"/>
+    <p id="rev_predelay" v="0"/>
+    <p id="rev_early_size" v="10.4"/>
+    <p id="rev_late_size" v="27.9"/>
+    <p id="rev_early_diff" v="50"/>
+    <p id="rev_late_diff" v="50"/>
+    <p id="rev_early_bright" v="50"/>
+    <p id="rev_late_bright" v="50"/>
+    <p id="rev_feedback" v="30"/>
+    <p id="rev_early_late" v="50"/>
+    <p id="rev_mod" v="10"/>
+    <p id="rev_mix" v="25"/>
+    <p id="cho_on" v="0"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="0"/>
+    <p id="cho_hp" v="0"/>
+    <p id="cho_volume" v="0"/>
+    <p id="cho_depth" v="35"/>
+    <p id="cho_rate" v="35"/>
+    <p id="cho_spatial" v="50"/>
+    <p id="cho_mix" v="50"/>
+    <p id="lim_on" v="0"/>
+    <p id="lim_knee" v="100"/>
+    <p id="lim_ratio" v="40"/>
+    <p id="lim_attack" v="1"/>
+    <p id="lim_release" v="150"/>
+    <p id="lim_threshold" v="0"/>
+    <p id="lim_gain" v="0"/>
+    <p id="lim_soft_clip" v="0"/>
+    <p id="master_volume" v="4"/>
+    <p id="fx_bypass" v="0"/>
+    <p id="play_mode" v="1"/>
+    <p id="pattern_bank" v="0"/>
+    <p id="pattern_slot" v="1"/>
+    <p id="live_transpose" v="0"/>
+  </params>
+  <settings trigger_mode="live" launch_quant="pattern_end" slide_into_rest="release" note_priority="last" internal_bpm="128" fx_order="0,1,2,3,4,5"/>
+  <bank>
+    <seq slot="0">acidpat 1|name=Fifteen Floors|len=15|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 R:C:0 N:C:1 N:C:0:1:A R:C:0 N:C:0 N:C:1:1:S N:C:0 R:C:0 N:C:0:1:A N:C:1 R:C:0 N:C:0 R:C:0 N:D#:0:1:S</seq>
+    <seq slot="1">acidpat 1|name=Fifteen Floors Mutation|len=15|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=3738822910|notemask=009|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=67|amtslide=24|amtaccent=20|amtvib=0|steps=N:C:0:1:A:100:1:0:0:1:18:76 N:C:1:1:-:100:1:0:0:22:82:64:-:C:1 N:C:0:1:-:100:1:0:0:9:39:90 N:C:1:1:A:100:1:0:0:34:18:98:-:C:1 R:C:0:1:-:100:1:0:4:-:71:74 R:C:0:1:-:100:1:0:0:69:95:85 N:C:1:1:-:100:1:0:0:8:72:85:-:C:1 R:C:1:1:-:100:1:0:0:92:64:95:-:C:1 R:C:0:1:-:100:1:0:4:-:89:95 N:C:0:1:-:100:1:0:0:16:72:100 N:C:0:1:-:100:1:0:0:29:55:92 N:C:1:1:-:100:1:0:0:47:87:91:-:C:1 N:C:1:1:-:100:1:0:0:1:66:55:-:C:1 R:C:0:1:-:100:1:0:0:87:26:52 N:C:1:1:S:100:1:0:0:20:54:24:-:C:1 N:C:0:1:S:100:1:0:0:9:100:13 N:C:1:1:A:100:1:0:0:1:6:10:-:C:1 R:C:1:1:-:100:1:0:0:74:52:84:-:C:1 N:C:0:1:-:100:1:0:0:33:100:67 N:C:1:1:-:100:1:0:0:19:87:87:-:C:1 N:C:1:1:A:100:1:0:0:1:6:30:-:C:1 N:C:0:1:-:100:1:0:0:63:85:85 N:D#:0:1:-:100:1:0:0:67:61:33:-:D# N:C:1:1:-:100:1:0:0:32:41:91:-:C:1 N:C:0:1:-:100:1:0:0:20:84:94 N:C:1:1:-:100:1:0:0:33:63:67:-:C:1 N:C:1:1:-:100:1:0:0:30:54:79:-:C:1 N:C:1:1:-:100:1:0:0:66:99:98:-:C:1 N:D#:1:1:-:100:1:0:0:54:97:100:-:D#:1 R:C:0:1:-:100:1:0:0:95:44:84 N:C:1:1:-:100:1:0:0:30:62:34:-:C:1 N:C:0:1:-:100:1:0:0:57:80:94 N:C:1:1:-:100:1:0:0:1:39:23:-:C:1 R:C:0:1:-:100:1:0:0:72:61:91 N:C:0:1:-:100:1:0:0:67:94:41 N:C:0:1:-:100:1:0:0:2:54:95 R:C:0:1:-:100:1:0:0:70:100:86 R:C:1:1:-:100:1:0:0:78:31:81:-:C:1 N:C:1:1:-:100:1:0:0:32:94:93:-:C:1 N:C:0:1:-:100:1:0:0:47:68:91 N:C:0:1:-:100:1:0:0:6:95:98 N:C:1:1:-:100:1:0:0:36:95:93:-:C:1 N:C:0:1:-:100:1:0:0:45:86:86 N:C:0:1:S:100:1:0:0:1:69:14 N:C:0:1:-:100:1:0:0:23:66:93 N:C:0:1:-:100:1:0:0:58:84:92 N:C:1:1:-:100:1:0:0:24:23:67:-:C:1 N:C:0:1:-:100:1:0:0:3:90:62 N:C:0:1:-:100:1:0:0:1:46:100 R:D#:0:1:-:100:1:0:0:100:90:54:-:D# N:D#:0:1:-:100:1:0:0:56:41:97:-:D# N:C:0:1:-:100:1:0:0:1:100:49 N:C:1:1:-:100:1:0:0:33:75:98:-:C:1 N:C:1:1:-:100:1:0:0:7:40:76:-:C:1 N:D#:0:1:-:100:1:0:0:29:30:78:-:D# N:D#:1:1:-:100:1:0:0:52:97:95:-:D#:1 N:C:0:1:-:100:1:0:0:17:99:46 N:C:0:1:-:100:1:0:0:17:100:74 N:D#:1:1:-:100:1:0:0:64:34:79:-:D#:1 R:D#:1:1:-:100:1:0:0:68:77:72:-:D#:1 R:C:1:1:-:100:1:0:0:77:43:3:-:C:1 N:C:0:1:-:100:1:0:0:11:86:94 R:C:0:1:-:100:1:0:0:99:23:86 N:C:0:1:-:100:1:0:0:21:92:95</seq>
+    <seq slot="2">acidpat 1|name=Fifteen Floors Push|len=15|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:1 N:C:0:1:A R:C:0 N:C:0 N:C:1:1:S N:C:0 R:C:0 N:C:0:1:A N:C:1 R:C:0 N:C:0 R:C:0 N:D#:0:1:S N:C:0</seq>
+    <seq slot="3">acidpat 1|name=Fifteen Floors Drift|len=11|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 R:C:0 N:C:1 N:C:0:1:A R:C:0 N:C:0 N:C:1:1:S N:C:0 R:C:0 N:C:0:1:A N:C:1 R:C:0 N:C:0 R:C:0 N:D#:0:1:S</seq>
+    <seq slot="4">acidpat 1|name=Fifteen Floors Shift|len=15|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 R:C:0 N:C:1 N:C:0 R:C:0 N:C:0:1:A N:C:1:1:S N:C:0 R:C:0 N:C:0 N:C:1:1:A R:C:0 N:C:0 R:C:0 N:D#:0:1:S</seq>
+    <seq slot="5">acidpat 1|name=Fifteen Floors Fill|len=15|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 R:C:0 N:C:1 N:C:0:1:A R:C:0 N:C:0 N:C:1:1:S N:C:0 R:C:0 N:C:0:1:A N:C:1 N:C:0:1:S N:C:1 N:D#:1:1:-:100:2 N:C:1:1:AS</seq>
+    <arp slot="0">acidpat 1|name=Vibrato Arp|len=16|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0:1:V T:C:0 N:C:0:2 N:C:0:3 N:C:1:1:V T:C:0 N:C:0:2 N:C:0:3:A N:C:0:1:V T:C:0 N:C:0:2 N:C:0:3 N:C:0:4:V T:C:0 N:C:0:3:S N:C:0:2</arp>
+    <arp slot="1">acidpat 1|name=Off Beat Arp|len=16|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=R:C:0 N:C:0 N:C:0:2 N:C:0:3 R:C:0 N:C:0 N:C:0:2 N:C:0:3:A R:C:0 N:C:0 N:C:0:2 N:C:0:3 R:C:0 N:C:0 N:C:0:2:S N:C:1:3</arp>
+    <arp slot="2">acidpat 1|name=Up Three|len=16|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 N:C:0:2 N:C:0:3 N:C:0 N:C:0:2 N:C:0:3 N:C:0 N:C:0:2 N:C:0:3 N:C:0 N:C:0:2 N:C:0:3 N:C:0 N:C:0:2 N:C:0:3:A N:C:1:1:S</arp>
+    <arp slot="3">acidpat 1|name=Triplet Climb|len=12|div=1/8|mod=tri|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0 N:C:0:2 N:C:0:3 N:C:0 N:C:0:2 N:C:0:3:A N:C:1 N:C:0:2 N:C:0:3 N:C:0:1:S N:C:1:2 N:C:0:3</arp>
+  </bank>
+</mw12F>

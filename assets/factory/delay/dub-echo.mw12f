@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Dub Echo" author="mwAudio" tags="Long,Filtered,Tempo Sync" description="Long band-passed repeats that ring on the filter resonance. For space and dub.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="3"/>
+    <p id="delay_l_den" v="8"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="3"/>
+    <p id="delay_r_den" v="8"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="62"/>
+    <p id="delay_filt_type" v="2"/>
+    <p id="delay_filt_cutoff" v="900"/>
+    <p id="delay_filt_reso" v="35"/>
+    <p id="delay_spread" v="60"/>
+    <p id="delay_mix" v="30"/>
+  </params>
+</mw12F>

@@ -1,0 +1,13 @@
+<mw12F schema="1" type="chorus" name="Subtle Air" author="mwAudio" tags="Subtle" description="Only the top end moves.">
+  <params>
+    <p id="cho_on" v="1"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="0"/>
+    <p id="cho_hp" v="55"/>
+    <p id="cho_volume" v="12"/>
+    <p id="cho_depth" v="18"/>
+    <p id="cho_rate" v="20"/>
+    <p id="cho_spatial" v="50"/>
+    <p id="cho_mix" v="25"/>
+  </params>
+</mw12F>

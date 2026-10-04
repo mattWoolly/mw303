@@ -1,0 +1,12 @@
+<mw12F schema="1" type="limiter" name="Accent Tamer" author="mwAudio" tags="Safety,Subtle" description="Fast and low: catches the spike at the start of an accent and leaves the rest of the note alone.">
+  <params>
+    <p id="lim_on" v="1"/>
+    <p id="lim_knee" v="80"/>
+    <p id="lim_ratio" v="20"/>
+    <p id="lim_attack" v="0.2"/>
+    <p id="lim_release" v="60"/>
+    <p id="lim_threshold" v="-10"/>
+    <p id="lim_gain" v="1"/>
+    <p id="lim_soft_clip" v="1"/>
+  </params>
+</mw12F>

@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Sparse Squelch" author="mwAudio" tags="Acid,Chicago" description="Minor triad, dense notes, accents kept rare so each one counts.">
+  <template note_mask="137" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="85" amount_slide="30" amount_accent="12" amount_vibrato="0"/>
+</mw12F>

@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Modal Walk" author="mwAudio" tags="Acid,Melodic" description="Dorian, for longer melodic lines. Use with a 32-step pattern.">
+  <template note_mask="1709" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="80" amount_slide="25" amount_accent="15" amount_vibrato="0"/>
+</mw12F>

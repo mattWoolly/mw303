@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Phrygian Dominant" author="mwAudio" tags="Scale" description="Scale template: semitones 0 1 4 5 7 8 10 above the root. Set the root on the generator.">
+  <template note_mask="1459" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="50" amount_slide="50" amount_accent="50" amount_vibrato="50"/>
+</mw12F>

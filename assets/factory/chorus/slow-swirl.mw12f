@@ -1,0 +1,13 @@
+<mw12F schema="1" type="chorus" name="Slow Swirl" author="mwAudio" tags="Motion" description="Deep and slow. The line seems to turn in place.">
+  <params>
+    <p id="cho_on" v="1"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="0"/>
+    <p id="cho_hp" v="35"/>
+    <p id="cho_volume" v="6"/>
+    <p id="cho_depth" v="60"/>
+    <p id="cho_rate" v="12"/>
+    <p id="cho_spatial" v="80"/>
+    <p id="cho_mix" v="45"/>
+  </params>
+</mw12F>

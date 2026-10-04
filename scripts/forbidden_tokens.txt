@@ -1,0 +1,49 @@
+# Branding audit token list (house rule: no original-manufacturer or third-party product
+# brand names in code, UI, presets or user docs). Matched case-insensitively at word
+# boundaries by scripts/branding-audit.sh. This file is excluded from its own scan.
+# One token per line; '#' starts a comment.
+
+# The original instrument and its maker
+Roland
+TB-303
+TB303
+TB 303
+TB-03
+TB-3
+
+# Commercial emulations and clones
+Phoscyon
+D16
+AudioRealism
+ABL3
+Arturia
+Acid V
+Behringer
+TD-3
+TD-3-MO
+x0xb0x
+x0x
+Cyclone
+RE-303
+
+# Modifications sold under a name
+Devil Fish
+DevilFish
+Quicksilver
+Acidlab
+
+# Pedals, consoles and their makers
+ProCo
+Pro Co
+RAT
+Ibanez
+Tube Screamer
+Screamer
+Boss
+DS-1
+DS-2
+HM-2
+Electro-Harmonix
+Big Muff
+Mackie
+Sherman

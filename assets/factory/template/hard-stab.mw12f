@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Hard Stab" author="mwAudio" tags="Acid,Hard" description="Root and minor third, octave stabs, rests between them.">
+  <template note_mask="9" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="75" amount_slide="25" amount_accent="25" amount_vibrato="0"/>
+</mw12F>

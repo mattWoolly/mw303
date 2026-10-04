@@ -1,0 +1,7 @@
+build/
+build-*/
+*.swp
+.cache/
+compile_commands.json
+tools/validators/
+.deps/

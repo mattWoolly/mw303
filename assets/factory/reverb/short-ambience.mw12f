@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Short Ambience" author="mwAudio" tags="Room,Short,Subtle" description="Early reflections only, to put a dry line in a space.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="0"/>
+    <p id="rev_early_size" v="2.5"/>
+    <p id="rev_late_size" v="7"/>
+    <p id="rev_early_diff" v="40"/>
+    <p id="rev_late_diff" v="40"/>
+    <p id="rev_early_bright" v="60"/>
+    <p id="rev_late_bright" v="50"/>
+    <p id="rev_feedback" v="5"/>
+    <p id="rev_early_late" v="20"/>
+    <p id="rev_mod" v="0"/>
+    <p id="rev_mix" v="10"/>
+  </params>
+</mw12F>

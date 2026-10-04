@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Root Stomp" author="mwAudio" tags="Acid,Rolling" description="The root in two octaves, nearly every step, a few accents and slides. Ride the knobs.">
+  <template note_mask="1" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="90" amount_slide="20" amount_accent="25" amount_vibrato="0"/>
+</mw12F>

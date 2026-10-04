@@ -1,0 +1,3 @@
+<mw12F schema="1" type="pattern" name="Strobe Hymn Breakdown" author="mwAudio" tags="Anthem,Variation,One Note,All Accent,Ties,Rests" description="Anthem line in C, about 131 BPM: a breakdown on the beats, from the scene Strobe Hymn.">
+  <pattern>acidpat 1|name=Strobe Hymn Breakdown|len=16|div=1/16|mod=full|shuffle=0|gate=0|dir=fwd|transpose=0|seed=1|notemask=fff|root=0|octmask=06|useslide=1|useaccent=1|usevib=0|amtnote=50|amtslide=50|amtaccent=50|amtvib=50|steps=N:C:0:1:A T:C:0 R:C:0 R:C:0 N:C:0:1:A T:C:0 R:F:0 R:C:0 N:C:0:1:A T:C:0 R:C:0 R:C:0 N:C:0:1:A T:C:0 R:F:0</pattern>
+</mw12F>

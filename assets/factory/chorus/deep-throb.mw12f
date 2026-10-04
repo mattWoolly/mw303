@@ -1,0 +1,13 @@
+<mw12F schema="1" type="chorus" name="Deep Throb" author="mwAudio" tags="Motion,Heavy" description="Big pitch movement for slow, liquid lines.">
+  <params>
+    <p id="cho_on" v="1"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="30"/>
+    <p id="cho_hp" v="50"/>
+    <p id="cho_volume" v="6.8"/>
+    <p id="cho_depth" v="85"/>
+    <p id="cho_rate" v="20"/>
+    <p id="cho_spatial" v="60"/>
+    <p id="cho_mix" v="50"/>
+  </params>
+</mw12F>

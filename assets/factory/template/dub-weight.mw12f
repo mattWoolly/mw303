@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Dub Weight" author="mwAudio" tags="Acid,Dub" description="Low, sparse, slidey. For slow tempos and long echoes.">
+  <template note_mask="1185" root="0" octave_mask="3" slide="1" accent="1" vibrato="0" amount_note="45" amount_slide="30" amount_accent="15" amount_vibrato="0"/>
+</mw12F>

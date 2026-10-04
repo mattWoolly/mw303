@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Sixteenth Ripple" author="mwAudio" tags="Short,Tempo Sync,Wide" description="Tiny repeats that blur the attack into a shimmer.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="1"/>
+    <p id="delay_l_den" v="16"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="3"/>
+    <p id="delay_r_den" v="32"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="38"/>
+    <p id="delay_filt_type" v="3"/>
+    <p id="delay_filt_cutoff" v="800"/>
+    <p id="delay_filt_reso" v="0"/>
+    <p id="delay_spread" v="90"/>
+    <p id="delay_mix" v="16"/>
+  </params>
+</mw12F>

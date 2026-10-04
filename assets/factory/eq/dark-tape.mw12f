@@ -1,0 +1,17 @@
+<mw12F schema="1" type="eq" name="Dark Tape" author="mwAudio" tags="Cut,Filtered" description="Rolls off the top like an old cassette.">
+  <params>
+    <p id="eq_on" v="1"/>
+    <p id="eq_low_gain" v="2"/>
+    <p id="eq_low_freq" v="100"/>
+    <p id="eq_low_width" v="2"/>
+    <p id="eq_lomid_gain" v="0"/>
+    <p id="eq_lomid_freq" v="550"/>
+    <p id="eq_lomid_width" v="1.5"/>
+    <p id="eq_himid_gain" v="-2"/>
+    <p id="eq_himid_freq" v="3000"/>
+    <p id="eq_himid_width" v="2"/>
+    <p id="eq_high_gain" v="-8"/>
+    <p id="eq_high_freq" v="6000"/>
+    <p id="eq_high_width" v="3"/>
+  </params>
+</mw12F>

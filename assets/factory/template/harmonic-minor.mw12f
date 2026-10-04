@@ -1,0 +1,3 @@
+<mw12F schema="1" type="template" name="Harmonic Minor" author="mwAudio" tags="Scale" description="Scale template: semitones 0 2 3 5 7 8 11 above the root. Set the root on the generator.">
+  <template note_mask="2477" root="0" octave_mask="6" slide="1" accent="1" vibrato="0" amount_note="50" amount_slide="50" amount_accent="50" amount_vibrato="50"/>
+</mw12F>

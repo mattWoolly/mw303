@@ -1,0 +1,19 @@
+<mw12F schema="1" type="delay" name="Dotted Eighth" author="mwAudio" tags="Dotted,Tempo Sync,Filtered" description="Three sixteenths left, a quarter right, high-passed in the loop so the bass stays clean.">
+  <params>
+    <p id="delay_on" v="1"/>
+    <p id="delay_sync" v="1"/>
+    <p id="delay_time" v="0.2"/>
+    <p id="delay_l_num" v="3"/>
+    <p id="delay_l_den" v="16"/>
+    <p id="delay_l_mod" v="0"/>
+    <p id="delay_r_num" v="1"/>
+    <p id="delay_r_den" v="4"/>
+    <p id="delay_r_mod" v="0"/>
+    <p id="delay_feedback" v="35"/>
+    <p id="delay_filt_type" v="3"/>
+    <p id="delay_filt_cutoff" v="450"/>
+    <p id="delay_filt_reso" v="0"/>
+    <p id="delay_spread" v="40"/>
+    <p id="delay_mix" v="22"/>
+  </params>
+</mw12F>

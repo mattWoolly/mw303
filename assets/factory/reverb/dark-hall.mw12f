@@ -1,0 +1,16 @@
+<mw12F schema="1" type="reverb" name="Dark Hall" author="mwAudio" tags="Hall,Long" description="A big hall with the highs damped. Space without glare.">
+  <params>
+    <p id="rev_on" v="1"/>
+    <p id="rev_predelay" v="30"/>
+    <p id="rev_early_size" v="14"/>
+    <p id="rev_late_size" v="40"/>
+    <p id="rev_early_diff" v="60"/>
+    <p id="rev_late_diff" v="70"/>
+    <p id="rev_early_bright" v="30"/>
+    <p id="rev_late_bright" v="20"/>
+    <p id="rev_feedback" v="65"/>
+    <p id="rev_early_late" v="75"/>
+    <p id="rev_mod" v="20"/>
+    <p id="rev_mix" v="20"/>
+  </params>
+</mw12F>

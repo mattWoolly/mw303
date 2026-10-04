@@ -1,0 +1,13 @@
+<mw12F schema="1" type="chorus" name="Fast Shimmer" author="mwAudio" tags="Motion" description="A quick, shallow wobble on the upper harmonics.">
+  <params>
+    <p id="cho_on" v="1"/>
+    <p id="cho_offset" v="0"/>
+    <p id="cho_fatness" v="0"/>
+    <p id="cho_hp" v="55"/>
+    <p id="cho_volume" v="10.9"/>
+    <p id="cho_depth" v="20"/>
+    <p id="cho_rate" v="75"/>
+    <p id="cho_spatial" v="50"/>
+    <p id="cho_mix" v="30"/>
+  </params>
+</mw12F>

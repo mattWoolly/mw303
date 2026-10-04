@@ -1,0 +1,17 @@
+<mw12F schema="1" type="eq" name="Smile" author="mwAudio" tags="Boost,Scoop" description="Low and high up, middle down. Big and glossy.">
+  <params>
+    <p id="eq_on" v="1"/>
+    <p id="eq_low_gain" v="3"/>
+    <p id="eq_low_freq" v="80"/>
+    <p id="eq_low_width" v="2"/>
+    <p id="eq_lomid_gain" v="-4.5"/>
+    <p id="eq_lomid_freq" v="700"/>
+    <p id="eq_lomid_width" v="1.5"/>
+    <p id="eq_himid_gain" v="0"/>
+    <p id="eq_himid_freq" v="3500"/>
+    <p id="eq_himid_width" v="2"/>
+    <p id="eq_high_gain" v="3.5"/>
+    <p id="eq_high_freq" v="8000"/>
+    <p id="eq_high_width" v="2"/>
+  </params>
+</mw12F>

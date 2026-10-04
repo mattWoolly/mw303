@@ -1,0 +1,17 @@
+<mw12F schema="1" type="eq" name="Telephone" author="mwAudio" tags="Cut,Filtered" description="Narrow band, for breakdowns and intros.">
+  <params>
+    <p id="eq_on" v="1"/>
+    <p id="eq_low_gain" v="-18"/>
+    <p id="eq_low_freq" v="60"/>
+    <p id="eq_low_width" v="3"/>
+    <p id="eq_lomid_gain" v="10"/>
+    <p id="eq_lomid_freq" v="1100"/>
+    <p id="eq_lomid_width" v="2.5"/>
+    <p id="eq_himid_gain" v="0"/>
+    <p id="eq_himid_freq" v="3500"/>
+    <p id="eq_himid_width" v="2"/>
+    <p id="eq_high_gain" v="-14"/>
+    <p id="eq_high_freq" v="9000"/>
+    <p id="eq_high_width" v="3"/>
+  </params>
+</mw12F>
